@@ -1,4 +1,4 @@
-<center><h1 style="font-size: 40px;">Greetings, traveler!</h1></center>
+<center><h1 style="font-size: 40px;">Welcome, traveler!</h1></center>
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/f6/39/48/f63948a6ce5743325780a706dc07fa11.jpg" />
