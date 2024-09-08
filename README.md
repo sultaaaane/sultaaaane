@@ -28,7 +28,12 @@
   <img src="https://i.pinimg.com/originals/b4/8c/6e/b48c6ecc510a63e4d37ee571550ca66b.gif"/>
 </div>  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,php,java,python)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,php,java,python" />
+  </a>
+</p>
+
 <!-- Add your social media links here -->
 <div align="center">
   <a href="https://github.com/sultaaaane" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
