@@ -34,5 +34,5 @@
   <a href="https://linkedin.com/in/mohammed-bentahir-alaoui-061299260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,php,java,python)](https://skillicons.dev)
 <br />
