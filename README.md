@@ -25,6 +25,11 @@ I speak Python to the AIs, C/C++ to my segfaults, and enough web dev (JS/HTML/CS
   
 <br />
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sultaaaane/sultaaaane/main/githubbanner1.gif" width="100%" />
+</div>  
+<br />
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,php,java" />
@@ -38,7 +43,3 @@ I speak Python to the AIs, C/C++ to my segfaults, and enough web dev (JS/HTML/CS
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
 <br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sultaaaane/sultaaaane/main/githubbanner1.gif" width="100%" />
-</div>  
