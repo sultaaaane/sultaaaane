@@ -40,5 +40,5 @@ I speak Python to the AIs, C/C++ to my segfaults, and enough web dev (JS/HTML/CS
 <br />
 
 <div align="center">
-  <img src="githubbanner1.gif"/>
+  <img src="https://raw.githubusercontent.com/sultaaaane/sultaaaane/main/githubbanner1.gif" width="100%" />
 </div>  
