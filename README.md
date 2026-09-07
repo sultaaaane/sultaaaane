@@ -32,7 +32,7 @@ I speak Python to the AIs, C/C++ to my segfaults, and enough web dev (JS/HTML/CS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,php,java" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,nodejs,git,react,c,cpp" />
   </a>
 </p>
 
